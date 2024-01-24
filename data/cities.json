@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Sabinanigo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-10T14:49:12.841Z",
+      "notes": "",
+      "position": {
+        "lat": "42.52069952914966",
+        "lng": "-0.39550781250000006"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Valdemorillo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-10T17:30:50.242Z",
+      "notes": "",
+      "position": {
+        "lat": "40.54720023441049",
+        "lng": "-4.064941406250001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Yekaterinburg",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-01-21T10:28:55.861Z",
+      "notes": "",
+      "position": {
+        "lat": "56.81892067431724",
+        "lng": "60.62805175781251"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Mora",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2024-01-21T11:18:18.603Z",
+      "notes": "",
+      "position": {
+        "lat": "61.16443708638272",
+        "lng": "14.523925781250002"
+      },
+      "id": 98443201
+    }
+  ]
+}
